@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react'
+import React, { Component, Fragment } from 'react';
 import {connect} from 'react-dom';
 import PropTypes from 'prop-types';
 import {getLeads, deleteLead} from '../../actions/leads';
